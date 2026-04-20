@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604201948042TAE7A</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260420194804R6U8KQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>INVESTIGACIÓN COOPERATIVA SOBRE LAS PROVINCIAS DE ANDALUCÍA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>JUAN JAVIER CARVAJAL BENÍTEZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto, a modo de REA, busca introducir al alumnado en la investigación sobre Andalucía, utilizando herramientas y recursos tecnológicos variados, mediante el aprendizaje cooperativo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776707270238</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdm-wzjzwg6jc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. ¡OS DAMOS LA BIENVENIDA!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¡OS DAMOS LA BIENVENIDA!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¡OS DAMOS LA BIENVENIDA!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¡OS DAMOS LA BIENVENIDA!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdm-wzjzwg6jc</odePageId>
+      <odeBlockId>block-1776619718736-quasunaps</odeBlockId>
+      <blockName>¡Allá vamos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdm-wzjzwg6jc</odePageId>
+          <odeBlockId>block-1776619718736-quasunaps</odeBlockId>
+          <odeIdeviceId>idevice-1776619718734-s2ki4m1q5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenidos y bienvenidas a nuestro nuevo proyecto! </p>
+<p>Con este proyecto, vamos a investigar acerca de las ocho provincias de Andalucía, nuestra comunidad autónoma. </p>
+<p>Será una forma interesante y única de celebrar el Día de Andalucía.</p>
+<p>¡Arrancamos! </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776619718734-s2ki4m1q5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos y bienvenidas a nuestro nuevo proyecto! </p>\n<p>Con este proyecto, vamos a investigar acerca de las ocho provincias de Andalucía, nuestra comunidad autónoma. </p>\n<p>Será una forma interesante y única de celebrar el Día de Andalucía.</p>\n<p>¡Arrancamos! </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdo-vmoxgrjtz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. COMENZAMOS NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. COMENZAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. COMENZAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. COMENZAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdo-vmoxgrjtz</odePageId>
+      <odeBlockId>block-1776619900107-faxdsc3ci</odeBlockId>
+      <blockName>¡Comenzamos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdo-vmoxgrjtz</odePageId>
+          <odeBlockId>block-1776619900107-faxdsc3ci</odeBlockId>
+          <odeIdeviceId>idevice-1776619900104-5lr73r8t6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a conocer las principales características de nuestro proyecto.</p>
+<p><strong>Título:</strong></p>
+<p>Investigación cooperativa sobre las provincias de Andalucía.</p>
+<p><strong>Centro de interés o temática:</strong></p>
+<p>Para esta actividad, que se realizará en la semana del Día de Andalucía, vamos a dividir al alumnado en 8 grupos. Cada grupo se centrará en una provincia andaluza, aprenderá sus tradiciones e incluso creará un nuevo escudo de la misma, mediante diversas herramientas TICs.</p>
+<p><strong>Nivel al que va dirigido:</strong></p>
+<p>6º de primaria.</p>
+<p><strong>Temporalización aproximada:</strong></p>
+<p>3 sesiones</p>
+<p><strong>Materia o materias implicadas:</strong></p>
+<p>Lengua Castellana y Literatura y Educación Artística.</p>
+<p><strong>Idioma</strong>:</p>
+<p>Español.</p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong></p>
+<p>El alumnado trabajará en grupos. Investigará mediante las TICs sobre las tradiciones y los productos principales de la provincia que hayan elegido. Posteriormente, creará un escudo mediante una aplicación online, donde añadirá los elementos que considere más típicos de la provincia. Por último presentará su escudo a la clase, explicando el porqué de cada elemento añadido y además realizará una exposición sobre datos relevantes de la provincia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776619900104-5lr73r8t6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a conocer las principales características de nuestro proyecto.</p>\n<p><strong>Título:</strong></p>\n<p>Investigación cooperativa sobre las provincias de Andalucía.</p>\n<p><strong>Centro de interés o temática:</strong></p>\n<p>Para esta actividad, que se realizará en la semana del Día de Andalucía, vamos a dividir al alumnado en 8 grupos. Cada grupo se centrará en una provincia andaluza, aprenderá sus tradiciones e incluso creará un nuevo escudo de la misma, mediante diversas herramientas TICs.</p>\n<p><strong>Nivel al que va dirigido:</strong></p>\n<p>6º de primaria.</p>\n<p><strong>Temporalización aproximada:</strong></p>\n<p>3 sesiones</p>\n<p><strong>Materia o materias implicadas:</strong></p>\n<p>Lengua Castellana y Literatura y Educación Artística.</p>\n<p><strong>Idioma</strong>:</p>\n<p>Español.</p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong></p>\n<p>El alumnado trabajará en grupos. Investigará mediante las TICs sobre las tradiciones y los productos principales de la provincia que hayan elegido. Posteriormente, creará un escudo mediante una aplicación online, donde añadirá los elementos que considere más típicos de la provincia. Por último presentará su escudo a la clase, explicando el porqué de cada elemento añadido y además realizará una exposición sobre datos relevantes de la provincia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdp-si70rd8z2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. NOS PROTEGEMOS ANTE EL MUNDO DIGITAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. NOS PROTEGEMOS ANTE EL MUNDO DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. NOS PROTEGEMOS ANTE EL MUNDO DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdp-si70rd8z2</odePageId>
+      <odeBlockId>block-1776619991611-62g454blz</odeBlockId>
+      <blockName>Atendamos a estos consejos para el uso correcto de las herramientas digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdp-si70rd8z2</odePageId>
+          <odeBlockId>block-1776619991611-62g454blz</odeBlockId>
+          <odeIdeviceId>idevice-1776619991609-007iabwjp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar a utilizar las herramientas digitales para nuestro proyecto, es necesario seguir unos consejos acerca del uso de estas herramientas. Si seguimos estos consejos, disfrutaremos navegando por el mundo digital, con seguridad y confianza. </p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/2.3. Licencias y seguridad. Juan Javier Carvajal Benítez_page-0001.jpg" width="585" height="1241" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776619991609-007iabwjp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar a utilizar las herramientas digitales para nuestro proyecto, es necesario seguir unos consejos acerca del uso de estas herramientas. Si seguimos estos consejos, disfrutaremos navegando por el mundo digital, con seguridad y confianza. </p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/2.3. Licencias y seguridad. Juan Javier Carvajal Benítez_page-0001.jpg\" width=\"585\" height=\"1241\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdq-b26a8abol</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. NUESTRO PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. NUESTRO PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. NUESTRO PRODUCTO FINAL </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. NUESTRO PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdq-b26a8abol</odePageId>
+      <odeBlockId>block-1776620183745-frhktc4uu</odeBlockId>
+      <blockName>Conozcamos nuestro producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdq-b26a8abol</odePageId>
+          <odeBlockId>block-1776620183745-frhktc4uu</odeBlockId>
+          <odeIdeviceId>idevice-1776620183742-vguvb3qps</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><strong>¿Cuál será nuestro producto final?</strong></h2>
+<p>Nos dividiremos en pequeños grupos de tres personas, formando ocho grupos. Cada pequeño grupo elegirá una provincia andaluza sobre la que tendrá que investigar, acerca de su cultura, sus tradiciones, su gastronomía, su fauna, su flora, etc. </p>
+<p>Cada pequeño grupo tendrá acceso a un espacio en 'Google Drive' y en 'Google Docs', para concretar y escribir la información que vayan encontrando, de forma compartida, entre todas las personas del grupo. </p>
+<p>Una vez que tengan toda la información debidamente contrastada, resumida y elaborada, cada grupo elaborará un escudo de su provincia, utilizando la herramienta digital 'Canva'.</p>
+<p>Para finalizar, cada grupo realizará una exposición oral, para informar al resto del alumnado de la información acerca de su provincia andaluza y mostrar su escudo. </p>
+<p>Así pues...</p>
+<h2><strong>¿Qué herramientas digitales utilizaremos?</strong></h2>
+<p>-<strong> Canva.</strong> Con ella, cada grupo podrá crear el escudo de la provincia andaluza sobre la que va a investigar.<br />- Presentaciones de Google en<strong> Google Drive</strong> y <strong>Google Docs.</strong> Aprenderéis a trabajar conjuntamente en un documento. Cada niño y niña utilizaréis un portátil. Así, en un documento de Presentaciones de Google, prepararéis una presentación online para que, a la hora de exponer, podáis ayudaros de esta presentación, junto a su escudo creado en Canva.</p>
+<p></p>
+<h2><strong>¿Qué aprenderemos con estas herramientas?</strong></h2>
+<p>Estas herramientas digitales se adaptan perfectamente al contenido que vamos a trabajar y a los dos pilares principales de esta actividad, que van a ser, el uso de herramientas digitales y el trabajo cooperativo. Son unas herramientas ideales para el tercer ciclo de la educación primaria, ya que su complejidad no es muy alta y por lo tanto, son adecuadas para este inicio en trabajos cooperativos online. </p>
+<p>En cuanto a su idealidad para el contexto, son una herramientas muy adecuadas, ya que ahora contamos con un ordenador portátil para cada alumno y alumna, por lo que queremos sacarle partido a esta disponibilidad para que puedan trabajar cooperativamente mientras aprenden a utilizar las herramientas de forma autónoma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776620183742-vguvb3qps","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><strong>¿Cuál será nuestro producto final?</strong></h2>\n<p>Nos dividiremos en pequeños grupos de tres personas, formando ocho grupos. Cada pequeño grupo elegirá una provincia andaluza sobre la que tendrá que investigar, acerca de su cultura, sus tradiciones, su gastronomía, su fauna, su flora, etc. </p>\n<p>Cada pequeño grupo tendrá acceso a un espacio en 'Google Drive' y en 'Google Docs', para concretar y escribir la información que vayan encontrando, de forma compartida, entre todas las personas del grupo. </p>\n<p>Una vez que tengan toda la información debidamente contrastada, resumida y elaborada, cada grupo elaborará un escudo de su provincia, utilizando la herramienta digital 'Canva'.</p>\n<p>Para finalizar, cada grupo realizará una exposición oral, para informar al resto del alumnado de la información acerca de su provincia andaluza y mostrar su escudo. </p>\n<p>Así pues...</p>\n<h2><strong>¿Qué herramientas digitales utilizaremos?</strong></h2>\n<p>-<strong> Canva.</strong> Con ella, cada grupo podrá crear el escudo de la provincia andaluza sobre la que va a investigar.<br />- Presentaciones de Google en<strong> Google Drive</strong> y <strong>Google Docs.</strong> Aprenderéis a trabajar conjuntamente en un documento. Cada niño y niña utilizaréis un portátil. Así, en un documento de Presentaciones de Google, prepararéis una presentación online para que, a la hora de exponer, podáis ayudaros de esta presentación, junto a su escudo creado en Canva.</p>\n<p></p>\n<h2><strong>¿Qué aprenderemos con estas herramientas?</strong></h2>\n<p>Estas herramientas digitales se adaptan perfectamente al contenido que vamos a trabajar y a los dos pilares principales de esta actividad, que van a ser, el uso de herramientas digitales y el trabajo cooperativo. Son unas herramientas ideales para el tercer ciclo de la educación primaria, ya que su complejidad no es muy alta y por lo tanto, son adecuadas para este inicio en trabajos cooperativos online. </p>\n<p>En cuanto a su idealidad para el contexto, son una herramientas muy adecuadas, ya que ahora contamos con un ordenador portátil para cada alumno y alumna, por lo que queremos sacarle partido a esta disponibilidad para que puedan trabajar cooperativamente mientras aprenden a utilizar las herramientas de forma autónoma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdr-5c3egokyo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdr-5c3egokyo</odePageId>
+      <odeBlockId>block-1776620634383-gjizwp32t</odeBlockId>
+      <blockName>Conozcamos las herramientas digitales que utilizaremos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdr-5c3egokyo</odePageId>
+          <odeBlockId>block-1776620634383-gjizwp32t</odeBlockId>
+          <odeIdeviceId>idevice-1776620634380-ky9lhhjk2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, os vamos a presentar dos recursos online, que os servirán como guías durante todo el proyecto:</p>
+<p><strong>a) PADLET</strong></p>
+<p>En nuestro espacio, en 'Padlet', tenéis acceso a diversos recursos (como vídeos), que os servirán para guiaros en la utilización de las herramientas tecnológicas para este proyecto. </p>
+<p><a href="https://padlet.com/jcarben283/aprendemos-sobre-las-provincias-andaluzas-vh1jqdbbv9coxhxc" title="">https://padlet.com/jcarben283/aprendemos-sobre-las-provincias-andaluzas-vh1jqdbbv9coxhxc</a></p>
+<p><strong>b) SYMBALOO</strong></p>
+<p>En nuestro espacio en 'Symbaloo', podréis encontrar todos los enlaces web a las herramientas digitales que utilizaréis a lo largo del proyecto. </p>
+<p><a href="https://www.symbaloo.com/shared/AAAABm6cq6QAA42ADtFCTw==" title="">https://www.symbaloo.com/shared/AAAABm6cq6QAA42ADtFCTw==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776620634380-ky9lhhjk2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, os vamos a presentar dos recursos online, que os servirán como guías durante todo el proyecto:</p>\n<p><strong>a) PADLET</strong></p>\n<p>En nuestro espacio, en 'Padlet', tenéis acceso a diversos recursos (como vídeos), que os servirán para guiaros en la utilización de las herramientas tecnológicas para este proyecto. </p>\n<p><a href=\"https://padlet.com/jcarben283/aprendemos-sobre-las-provincias-andaluzas-vh1jqdbbv9coxhxc\" title=\"\">https://padlet.com/jcarben283/aprendemos-sobre-las-provincias-andaluzas-vh1jqdbbv9coxhxc</a></p>\n<p><strong>b) SYMBALOO</strong></p>\n<p>En nuestro espacio en 'Symbaloo', podréis encontrar todos los enlaces web a las herramientas digitales que utilizaréis a lo largo del proyecto. </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABm6cq6QAA42ADtFCTw==\" title=\"\">https://www.symbaloo.com/shared/AAAABm6cq6QAA42ADtFCTw==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdr-jrjbb59jb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. LÍNEA TEMPORAL DE NUESTRO PROYECTO </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. LÍNEA TEMPORAL DE NUESTRO PROYECTO </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. LÍNEA TEMPORAL DE NUESTRO PROYECTO </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdr-jrjbb59jb</odePageId>
+      <odeBlockId>block-1776620907421-suurekqyj</odeBlockId>
+      <blockName>Conozcamos la línea temporal de nuestro proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdr-jrjbb59jb</odePageId>
+          <odeBlockId>block-1776620907421-suurekqyj</odeBlockId>
+          <odeIdeviceId>idevice-1776620907420-ymkpt4v6d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, podréis ver una imagen donde se especifican todos los pasos de este proyecto. Así podréis tener una organización temporal clara y sencilla, siempre accesible, cuando necesitéis verla. </p>
+<p><img src="{{context_path}}/content/resources/TAREA 7.1. JUAN JAVIER CARVAJAL BENÍTEZ_page-0001.jpg" width="585" height="1241" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776620907420-ymkpt4v6d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, podréis ver una imagen donde se especifican todos los pasos de este proyecto. Así podréis tener una organización temporal clara y sencilla, siempre accesible, cuando necesitéis verla. </p>\n<p><img src=\"{{context_path}}/content/resources/TAREA 7.1. JUAN JAVIER CARVAJAL BENÍTEZ_page-0001.jpg\" width=\"585\" height=\"1241\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsdr-vgl00zq6p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. EVALUACIÓN DE NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. EVALUACIÓN DE NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. EVALUACIÓN DE NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsdr-vgl00zq6p</odePageId>
+      <odeBlockId>block-1776621064045-pxig7f1lx</odeBlockId>
+      <blockName>Reflexionemos sobre la evaluación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsdr-vgl00zq6p</odePageId>
+          <odeBlockId>block-1776621064045-pxig7f1lx</odeBlockId>
+          <odeIdeviceId>idevice-1776621064043-p2m1f9s88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <strong>evaluación </strong>de nuestro proyecto es fundamental para analizar nuestro trabajo, aprender de nuestros errores y seguir progresando.</p>
+<p>A continuación, podréis conocer qué herramientas vamos a utilizar para la evaluación de este proyecto, para analizar tanto el progreso como los resultados. Con estos instrumentos, no solo yo, como maestro, realizaré un análisis del trabajo, sino que también se incluye un instrumento de autoevaluación, para que vosotros y vosotras también reflexionéis acerca de vuestro propio aprendizaje.</p>
+<p><strong>a) REGISTRO ANECDÓTICO</strong><br />Con el objetivo de analizar el trabajo y la actitud de cada alumno y alumna a lo largo de todo el proceso, utilizaremos un registro anecdótico. Este registro servirá al maestro para anotar información individual de cada alumno y alumna, para analizar aspectos importantes en momentos clave dentro del proceso de enseñanza y aprendizaje: cómo el alumnado se organiza ante el trabajo, cómo reacciona ante los problemas posibles que puedan surgir con las herramientas TIC, cómo se relaciona con los demás, etc. Así pues, este instrumento será esencial para realizar una evaluación continua y real, con numerosa información sobre el día a día en el aula.</p>
+<p> <img src="{{context_path}}/content/resources/registro .png" width="1315" height="576" alt="" /><br /> </p>
+<p><strong>b) LISTA DE CONTROL</strong><br />Para el análisis y la evaluación de la exposición oral de cada niño y niña, utilizaremos una lista de control. En dicha lista, que expongo a continuación,<br />incluiremos varios ítems esenciales que deben ser tomados en cuenta para una correcta exposición oral.<br />El maestro completará un cuadrante para cada alumno y alumna. Así pues, cada niño y niña será informado sobre las anotaciones del maestro, de manera que sea una evaluación formativa y le ayude a continuar evolucionando favorablemente.</p>
+<p> <img src="{{context_path}}/content/resources/lista.png" width="1137" height="804" alt="" /></p>
+<p><br /></p>
+<p><strong>c) DIANA DE AUTOEVALUACIÓN</strong><br />Este instrumento se utilizará como autoevaluación, es decir, para que el propio alumnado analice y reflexione acerca de su propio trabajo. Se utilizará al final del proyecto, es decir, tras la exposición oral. Se repartirá una diana de autoevaluación a cada niño y a cada niña, y se les pedirá que reflexionen acerca de cada ítem marcado, y que contesten con sinceridad y honestidad. Se les recordará que cada respuesta propia les sirve como herramienta para aprender de sus errores y para evolucionar en autonomía y en responsabilidad personal.</p>
+<p><img src="{{context_path}}/content/resources/diana .png" width="1147" height="794" alt="" /><br />  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776621064043-p2m1f9s88","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <strong>evaluación </strong>de nuestro proyecto es fundamental para analizar nuestro trabajo, aprender de nuestros errores y seguir progresando.</p>\n<p>A continuación, podréis conocer qué herramientas vamos a utilizar para la evaluación de este proyecto, para analizar tanto el progreso como los resultados. Con estos instrumentos, no solo yo, como maestro, realizaré un análisis del trabajo, sino que también se incluye un instrumento de autoevaluación, para que vosotros y vosotras también reflexionéis acerca de vuestro propio aprendizaje.</p>\n<p><strong>a) REGISTRO ANECDÓTICO</strong><br />Con el objetivo de analizar el trabajo y la actitud de cada alumno y alumna a lo largo de todo el proceso, utilizaremos un registro anecdótico. Este registro servirá al maestro para anotar información individual de cada alumno y alumna, para analizar aspectos importantes en momentos clave dentro del proceso de enseñanza y aprendizaje: cómo el alumnado se organiza ante el trabajo, cómo reacciona ante los problemas posibles que puedan surgir con las herramientas TIC, cómo se relaciona con los demás, etc. Así pues, este instrumento será esencial para realizar una evaluación continua y real, con numerosa información sobre el día a día en el aula.</p>\n<p> <img src=\"{{context_path}}/content/resources/registro .png\" width=\"1315\" height=\"576\" alt=\"\" /><br /> </p>\n<p><strong>b) LISTA DE CONTROL</strong><br />Para el análisis y la evaluación de la exposición oral de cada niño y niña, utilizaremos una lista de control. En dicha lista, que expongo a continuación,<br />incluiremos varios ítems esenciales que deben ser tomados en cuenta para una correcta exposición oral.<br />El maestro completará un cuadrante para cada alumno y alumna. Así pues, cada niño y niña será informado sobre las anotaciones del maestro, de manera que sea una evaluación formativa y le ayude a continuar evolucionando favorablemente.</p>\n<p> <img src=\"{{context_path}}/content/resources/lista.png\" width=\"1137\" height=\"804\" alt=\"\" /></p>\n<p><br /></p>\n<p><strong>c) DIANA DE AUTOEVALUACIÓN</strong><br />Este instrumento se utilizará como autoevaluación, es decir, para que el propio alumnado analice y reflexione acerca de su propio trabajo. Se utilizará al final del proyecto, es decir, tras la exposición oral. Se repartirá una diana de autoevaluación a cada niño y a cada niña, y se les pedirá que reflexionen acerca de cada ítem marcado, y que contesten con sinceridad y honestidad. Se les recordará que cada respuesta propia les sirve como herramienta para aprender de sus errores y para evolucionar en autonomía y en responsabilidad personal.</p>\n<p><img src=\"{{context_path}}/content/resources/diana .png\" width=\"1147\" height=\"794\" alt=\"\" /><br />  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsds-4shkywjgj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsds-4shkywjgj</odePageId>
+      <odeBlockId>block-1776622500424-2ifr72r5c</odeBlockId>
+      <blockName>Conozcamos la guía didáctica del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsds-4shkywjgj</odePageId>
+          <odeBlockId>block-1776622500424-2ifr72r5c</odeBlockId>
+          <odeIdeviceId>idevice-1776622500423-c10d3aqcp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado podréis conocer qué criterios de evaluación se tendrán en cuenta en cada tarea del proyecto. </p>
+<p><img src="{{context_path}}/content/resources/a.png" width="752" height="309" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/b.png" width="763" height="417" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/c.png" width="757" height="228" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776622500423-c10d3aqcp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado podréis conocer qué criterios de evaluación se tendrán en cuenta en cada tarea del proyecto. </p>\n<p><img src=\"{{context_path}}/content/resources/a.png\" width=\"752\" height=\"309\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/b.png\" width=\"763\" height=\"417\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/c.png\" width=\"757\" height=\"228\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo7hdsds-7ogggwhfo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo7hdsds-7ogggwhfo</odePageId>
+      <odeBlockId>block-1776623732222-ilgba8vrn</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsds-7ogggwhfo</odePageId>
+          <odeBlockId>block-1776623732222-ilgba8vrn</odeBlockId>
+          <odeIdeviceId>idevice-1776623732219-znywh3fv7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776623732219-znywh3fv7" title="" href="{{context_path}}/content/resources/creditos .png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/creditos .png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776623732219-znywh3fv7","img_0":{"img":"{{context_path}}/content/resources/creditos .png","thumbnail":"{{context_path}}/content/resources/creditos .png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo7hdsds-7ogggwhfo</odePageId>
+      <odeBlockId>block-1776707075390-8lo486z7a</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo7hdsds-7ogggwhfo</odePageId>
+          <odeBlockId>block-1776707075390-8lo486z7a</odeBlockId>
+          <odeIdeviceId>idevice-1776707075389-rh1248kz8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">INVESTIGACIÓN COOPERATIVA SOBRE LAS PROVINCIAS DE ANDALUCÍA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto, a modo de REA, busca introducir al alumnado en la investigación sobre Andalucía, utilizando herramientas y recursos tecnológicos variados, mediante el aprendizaje cooperativo.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">JUAN JAVIER CARVAJAL BENÍTEZ</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
